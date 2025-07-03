@@ -18,3 +18,4 @@ Dynamic Filters: Drill-down by date, category, payment type, and more
 Power BI Desktop
 DAX & Power Query
 Custom branding with restaurant-specific assets# Sales-Dashboard
+(https://github.com/GirishKumar7862/Sales-Dashboard/blob/main/Sales%20Dashboard.png)
